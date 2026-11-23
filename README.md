@@ -2,7 +2,7 @@
 
 Can we recover the parameters of a bacterial resistance model from noisy measurements, and how precisely? This project builds a two-compartment ODE model of antibiotic resistance, studies its identifiability, estimates its parameters with a **damped Gauss–Newton (Levenberg–Marquardt)** method, and quantifies their uncertainty with the **Fisher information matrix**.
 
-Research project by **Shyrine Sallam** and **Adam Messaoudi**, course *Parametric Identification and Optimization* (UE 211), ENS Paris-Saclay, 2026. Full report (in French): [`report/Rapport_antibioresistance.pdf`](report/Rapport_antibioresistance.pdf).
+Research project by **Shyrine Sallam** and **Adam Messaoudi**, course *Parametric Identification and Optimization* (UE 211), ENS Paris-Saclay, 2026, graded 18/20. Full report (in French): [`report/Rapport_antibioresistance.pdf`](report/Rapport_antibioresistance.pdf).
 
 ## Model
 
